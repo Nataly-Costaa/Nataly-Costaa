@@ -2,7 +2,6 @@
 
 - 🌱 atualmente cursando 2º período Ciência da Computação
 - ⚡ Estudando Java e HTML5
-- 😄 Pronouns: ela/dela
 
 <div align="center">
    <a href="https://beacons.ai/Nataly-Costaa">
