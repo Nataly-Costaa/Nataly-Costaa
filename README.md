@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Nataly Costa 👋
 
 - 🌱 atualmente cursando 2º período Ciência da Computação
-- ⚡ Estudando Java e HTML5
 
 <div align="center">
    <a href="https://beacons.ai/Nataly-Costaa">
