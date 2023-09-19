@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Nataly Costa 👋
 
-- 🌱 atualmente cursando 3º período Ciência da Computação
+- 🌱 atualmente cursando 4º período Ciência da Computação
 
 <div align="center">
    <a href="https://beacons.ai/Nataly-Costaa">
