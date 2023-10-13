@@ -2,7 +2,9 @@
 
 - 🌱 atualmente cursando 4º período Ciência da Computação
 
-<div align="center">
+[![card](https://github-readme-stats.vercel.app/api?username=Nataly-Costaa&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="justify">
    <a href="https://beacons.ai/Nataly-Costaa">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nataly-Costaa&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
