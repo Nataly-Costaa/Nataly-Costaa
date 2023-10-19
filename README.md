@@ -1,6 +1,8 @@
 ### Olá! Eu sou a Nataly Costa 👋
 
-- 🌱 atualmente cursando 4º período Ciência da Computação
+- 👩🏽 Tenho 19 anos;
+- 👩🏽‍💻 Atualmente cursando 4º período Ciência da Computação;
+- 📌 Sou de Teresina-PI.
 
 [![card](https://github-readme-stats.vercel.app/api?username=Nataly-Costaa&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
