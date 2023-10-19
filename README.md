@@ -2,7 +2,8 @@
 
 - 👩🏽 Tenho 19 anos;
 - 👩🏽‍💻 Atualmente cursando 4º período Ciência da Computação;
-- 📌 Sou de Teresina-PI.
+- 📌 Sou de Teresina-PI;
+- ⚡Gosto de aprimorar meus conhecimentos e apreder algo novo.
 
 [![card](https://github-readme-stats.vercel.app/api?username=Nataly-Costaa&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
