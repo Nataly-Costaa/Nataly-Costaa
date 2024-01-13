@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Nataly Costa 👋
 
 - 👩🏽 Tenho 20 anos;
-- 👩🏽‍💻 Atualmente cursando 4º período Ciência da Computação;
+- 👩🏽‍💻 Atualmente cursando 5º período Ciência da Computação;
 - 📌 Sou de Teresina-PI;
 - ⚡Gosto de aprimorar meus conhecimentos e apreder algo novo.
 
