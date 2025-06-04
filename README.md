@@ -33,6 +33,14 @@
     </td>
   </tr>
 </table>
+<table>
+   <tr>
+    <td>
+      <a href="https://github.com/Nataly-Costaa">
+      <img height="224em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nataly-Costaa&theme=jolly"/>
+    </td>
+  </tr>
+</table>
 
 <div style="display: inline_block"><br>  
    <img align="center" alt="Nataly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" >   
