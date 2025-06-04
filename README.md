@@ -58,6 +58,8 @@
 
 ##
 
+<img src="https://raw.githubusercontent.com/Nataly-Costaa/Nataly-Costaa/output/snake.svg" alt="Snake animation" />
 
+###
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dd00fe&height=100&section=footer"/>
